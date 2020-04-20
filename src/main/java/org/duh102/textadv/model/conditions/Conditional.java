@@ -1,4 +1,4 @@
-package org.duh102.textadv.model;
+package org.duh102.textadv.model.conditions;
 
 import java.util.Collection;
 
