@@ -1,4 +1,4 @@
-package org.duh102.textadv.model.text;
+package org.duh102.textadv.model.text.effect;
 
 public enum TextEffectType {
     ITALIC(false),

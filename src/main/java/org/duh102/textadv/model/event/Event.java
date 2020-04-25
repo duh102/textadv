@@ -1,7 +1,7 @@
-package org.duh102.textadv.model;
+package org.duh102.textadv.model.event;
 
 import org.duh102.textadv.model.actions.Action;
-import org.duh102.textadv.model.text.RichTextBlock;
+import org.duh102.textadv.model.text.block.RichTextBlock;
 
 import java.util.Collection;
 

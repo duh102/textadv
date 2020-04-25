@@ -1,4 +1,4 @@
-package org.duh102.textadv.model.text;
+package org.duh102.textadv.model.text.effect;
 
 import org.duh102.textadv.model.GameObject;
 
